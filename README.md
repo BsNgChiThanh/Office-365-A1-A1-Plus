@@ -3,7 +3,7 @@
 
 **Trang 1:** http://24mail.chacuo.net 
 >>_**Có 2 miền sau:** @stu.mao.office.gy hoặc @vip. stu.office.gy Join Group Nuran.com sẽ nhận được tài khoản Office 365 A1 Plus, sử dụng để kích hoạt Office 365 dành cho máy tính để bàn, laptop, android, mac cho 10 máy, không có ~~Onedrive!~~_ 
->>>_**Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl _
+>>>**Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
 
 **Trang 2:** https://www.1tb.fun 
 >Trang này đã tạm ngừng ~~đăng ký Office 365 vì Onedrive~~ bị chết! nhưng tham gia nhóm Telegram https://t.me/ms_1tb viết câu lệnh gởi nhóm /info yourgmail.com (Phải gmail mới được, ví dụ: /info abz@gmail.com trong vòng 7 ngày kiểm tra mail sẽ được Office A1 Plus, không có ~~Onedrive~~! Ở trong nhóm 100 ngày sẽ nhận được G suite!)
