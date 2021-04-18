@@ -11,14 +11,14 @@
 
 **Youtube tham khảo** https://www.youtube.com/watch?v=bw-saAes8ug 
 
-_**Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus sau:**_
+_**Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:**_
 
 Licence | URL | Domain | FROM | THE | Comment
 -- | -- | -- | -- | -- | --
 A1+A1P | http://24mail.chacuo.net | stu.mao.office.gy | ~~Onedrive~~ | X | Join Group Nuran.com to get A1P
 A1 + A1P | http://www.yopmail.com | vip.stu.office.gy | ~~Onedrive~~ | X | Join Group Nuran.com to get A1P
 A1 + A1P | http://www.yopmail.com | awzg.office.gy hoặc awzg.sch.lv | 5TB | X | Join Group !爱我中国 to get A1P
-A1P | ~~https://www.1tb.fun~~ | ~~ms.mit.edu.ge~~ 365.mit.edu.ge Ngừng cấp Office A1 | ~~Onedrive~~ | O | **Vẫn còn cấp A1 Plus!** Join Group Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 7 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! 
+A1P | ~~https://www.1tb.fun~~ | Ngừng cấp Office A1, ~~ms.mit.edu.ge~~ 365.mit.edu.ge | ~~Onedrive~~ | O | **Vẫn còn cấp A1 Plus!** Join Group Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 7 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! 
 A1+A1P | https://od.obagg.com | Chọn miền ashadevipolytechnic.in | 1TB | X |  Tạo xong có A1 Plus ngay!
 A1 | http://www.yopmail.com | gpsurendranagar.org | 1TB | X |  
 A1 | http://www.yopmail.com | midwestultrasound.com | 1TB | X |  
