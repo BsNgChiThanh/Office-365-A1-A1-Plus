@@ -26,4 +26,4 @@ A1 | http://www.yopmail.com | familyrow.com | 1TB | X |
 A1 | http://www.yopmail.com | houstondebate.com | 1TB | X |  
 A1 | http://www.yopmail.com | vikingdublin.com | 5TB | X |  
 A1 | http://www.yopmail.com | ropcourses.com | 2TB | X |  
-A1 | http://www.yopmail.com | zhongguo.office.gy hoặc aiwozhongguo.office.gy | 5TB | X | sms activation required
+A1 | http://www.yopmail.com | zhongguo.office.gy hoặc aiwozhongguo.office.gy | 5TB | X | Xác minh tin nhắn qua điện thoại mới tạo được Office A1.
