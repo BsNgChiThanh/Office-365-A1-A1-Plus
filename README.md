@@ -1,19 +1,19 @@
 **Tạo Office 365 A1, A1 Plus👋** 
->_Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!_
+>_👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯_
 
->>**Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
+>>**🔭Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
 
-**Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
+**🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
-**Cách kích hoạt Office 365 bằng tài khoản** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXpA3L_owq5IjHLCX1P5GKwBBZbwn98qNs8VxrsfA1Fzag?e=DFmtde 
+**🔭Cách kích hoạt Office 365 bằng tài khoản** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXpA3L_owq5IjHLCX1P5GKwBBZbwn98qNs8VxrsfA1Fzag?e=DFmtde 
 
-**Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EcSfXLU1NLtNhozs5-zKOekB55tQAqoFRfaYevZiL7Yq1w?e=gzZeTn 
+**🔭Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EcSfXLU1NLtNhozs5-zKOekB55tQAqoFRfaYevZiL7Yq1w?e=gzZeTn 
 
-**Youtube tham khảo** https://www.youtube.com/watch?v=bw-saAes8ug 
+**🔭Youtube tham khảo** https://www.youtube.com/watch?v=bw-saAes8ug 
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
 
-_**Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:**_
+_**🔭Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:**_
 
 Licence | URL | Domain | FROM | THE | Comment
 -- | -- | -- | -- | -- | --
