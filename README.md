@@ -17,8 +17,8 @@ hoặc @awzg.sch.lv Join Group !爱我中国 sẽ nhận được tài khoản O
 tạo xong có ngay tài khoản Office 365 A1 Plus, sử dụng để kích hoạt Office 365 dành cho máy tính để bàn, laptop, android, mac cho 10 sản phẩm, **Có Onedrive 1Tb!**_ Không cần tham gia bất cứu nhóm nào.
 
 **Ghi chú: Trang** http://www.yopmail.com 
->_Còn có miền @zhongguo.office.gy
-hoặc @aiwozhongguo.office.gy **chỉ tạo được Office 365 A1 có Onedrive 5Tb**. Không có ~~A1 Plus~~!
+>*Còn có miền @zhongguo.office.gy
+hoặc @aiwozhongguo.office.gy **chỉ tạo được Office 365 A1 có Onedrive 5Tb**. Không có ~~A1 Plus~~!*
 
 **Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
