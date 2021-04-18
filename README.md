@@ -2,7 +2,7 @@
 >_Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!_
 
 **Trang 1:** http://24mail.chacuo.net 
->>_**Có 2 miền sau:** @stu.mao.office.gy hoặc @vip. stu.office.gy Join Group Nuran.com sẽ nhận được tài khoản Office 365 A1 Plus, sử dụng để kích hoạt Office 365 dành cho máy tính để bàn, laptop, android, mac cho 10 sản phẩm, không có ~~Onedrive!~~_ 
+>>_**Có 2 miền sau:** @stu.mao.office.gy hoặc @vip. stu.office.gy Join Group Nuran.com sẽ nhận được tài khoản Office 365 A1 Plus, sử dụng để kích hoạt Office 365 dành cho máy tính để bàn, laptop, android, mac cho 10 máy, không có ~~Onedrive!~~_ 
 >>>_**Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl 
 
 **Trang 2:** https://www.1tb.fun 
@@ -18,7 +18,7 @@ tạo xong có ngay tài khoản Office 365 A1 Plus, sử dụng để kích ho�
 
 **Ghi chú: Trang** http://www.yopmail.com 
 >_Còn có miền @zhongguo.office.gy
-hoặc @aiwozhongguo.office.gy chỉ tạo được Office 365 A1 có Onedrive 5Tb. Không có ~~A1 Plus~~!
+hoặc @aiwozhongguo.office.gy **chỉ tạo được Office 365 A1 có Onedrive 5Tb**. Không có ~~A1 Plus~~!
 
 **Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
