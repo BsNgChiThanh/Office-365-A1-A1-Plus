@@ -2,7 +2,7 @@
  
 ## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯 
 
->>**🔭Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
+>**🔭Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
 
 **🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
