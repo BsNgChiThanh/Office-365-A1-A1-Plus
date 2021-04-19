@@ -1,4 +1,5 @@
-**_Tạo Office 365 A1, A1 Plus👋_** 
+# Tạo Office 365 A1, A1 Plus
+ 
 >_👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯_
 
 >>**🔭Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
@@ -13,7 +14,7 @@
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
 
-_**🔭Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:**_
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:
 
 Licence | URL | Domain | FROM | THE | Comment
 -- | -- | -- | -- | -- | --
