@@ -14,6 +14,8 @@
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
 
+_Cập nhật ngày 19.4.2021_
+
 # Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:
 
 Licence | URL | Domain | FROM | THE | Comment
