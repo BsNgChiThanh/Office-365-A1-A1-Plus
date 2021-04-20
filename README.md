@@ -38,5 +38,4 @@ A1 | https://xkx.me | 5tb.in Khuyên chọn | Onedrive trước đây 5Tb, giờ
 A1 | http://office.zx.al | my365.ws | 5TB | X | Chọn Office365学生对 tức For Students, chọn thằng còn lại là của Faculty |
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | |
 A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB | X |
-
 A1 | http://www.yopmail.com | zhongguo.office.gy hoặc aiwozhongguo.office.gy | 5TB | X | Xác minh tin nhắn qua điện thoại mới tạo được Office A1
