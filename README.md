@@ -16,9 +16,7 @@
 
 **_Ngày 20.4.2021 sau một thời gian dài bị khóa Onedrive, các miền sau đã hoạt động trở lại: @onedrive5tb.com, @5tb.in, @mod.obagg.com, @zou.cnstu.run, @bu.cnstu.run, @mosidu.cnstu.run, @ms.mit.edu.ge …_**
 
-_Cập nhật ngày 20.4.2021_
-
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy:
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (20.04.2021): 
 
 Licence | URL | Domain | FROM | THE | Comment
 -- | -- | -- | -- | -- | --
