@@ -55,7 +55,7 @@ A1P | 0911143603@stu.mao.office.gy | ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
 A1P | O365A1Plus@stu.mao.office.gy| ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
 
 
-**Tool Active Windows 10: **
+**Tool Active Windows 10:**
 
 https://github.com/vishalnagda1/windows-10-activator/blob/master/windows10.cmd 
 
