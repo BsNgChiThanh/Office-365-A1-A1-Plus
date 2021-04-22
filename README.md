@@ -62,3 +62,9 @@ https://github.com/vishalnagda1/windows-10-activator/blob/master/windows10.cmd
 **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:**
 
 https://github.com/congpho/kich-hoat-win-va-office/blob/master/Script_Kich_hoat_Windows_va_Office_Online_6_thang.cmd 
+
+**Tool Active Windows và Office: **
+
+Link Onedrive: https://msnvns0-my.sharepoint.com/personal/milansavio_s0_msnvn_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmilansavio%5Fs0%5Fmsnvn%5Forg%2FDocuments%2FActive%2FActivate%20AIO%20Tools%20v3%2E1%2E3%20%2D%20Pass%20giai%20nen%20la%20HQCNTH%2E7z&parent=%2Fpersonal%2Fmilansavio%5Fs0%5Fmsnvn%5Forg%2FDocuments%2FActive&originalPath=aHR0cHM6Ly9tc252bnMwLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL21pbGFuc2F2aW9fczBfbXNudm5fb3JnL0VjQV9GclN4VXZST2xqYkhiYzZxN2ZBQkpTQUpEcEcwTXduNmxJVWV6ZWU5V2c%5FcnRpbWU9VHFjZzhqNEYyVWc 
+
+Password giải nén: HQCNTH
