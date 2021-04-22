@@ -13,6 +13,8 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 >Tạo A1, A1 Plus miền ms.mit.edu.ge, 365.mit.edu.ge: https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EaAGT9sW07pHqyZeguZgMfUBehbiSd7QVLlbJEm9aI4ATw?e=kBc3qi 
 
+>Tạo A1, A1 Plus miền awzg.office.gy hoặc awzg.sch.lv: https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXc3tgYqvL9KtB-P5k3kVFIBix0eIT5jo0jzRnag-M4bUw?e=1EyIal 
+
 **🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
 **🔭Cách kích hoạt Office 365 bằng tài khoản** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXpA3L_owq5IjHLCX1P5GKwBBZbwn98qNs8VxrsfA1Fzag?e=DFmtde 
