@@ -6,7 +6,7 @@ _Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởn
 
 _Lưu dữ liệu nên lưu trên nhiều nơi, lưu một nơi thì không an toàn đâu nhé! Kể cả những anh admin nổi tiếng, nhà bán tài khoản Global O365 cũng không khẳng định được tài khoản của mình tồn tại bao lâu._
 
-_Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A53, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5._
+_Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5._
 
 **🔭Cách tạo cụ thể xem:** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
 
