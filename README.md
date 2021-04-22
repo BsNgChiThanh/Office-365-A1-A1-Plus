@@ -65,5 +65,4 @@ https://github.com/congpho/kich-hoat-win-va-office/blob/master/Script_Kich_hoat_
 
 **Tool Active Windows và Office:**
 
-Link Onedrive: https://msnvns0-my.sharepoint.com/personal/milansavio_s0_msnvn_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmilansavio%5Fs0%5Fmsnvn%5Forg%2FDocuments%2FActive%2FActivate%20AIO%20Tools%20v3%2E1%2E3%20%2D%20Pass%20giai%20nen%20la%20HQCNTH%2E7z&parent=%2Fpersonal%2Fmilansavio%5Fs0%5Fmsnvn%5Forg%2FDocuments%2FActive&originalPath=aHR0cHM6Ly9tc252bnMwLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL21pbGFuc2F2aW9fczBfbXNudm5fb3JnL0VjQV9GclN4VXZST2xqYkhiYzZxN2ZBQkpTQUpEcEcwTXduNmxJVWV6ZWU5V2c%5FcnRpbWU9VHFjZzhqNEYyVWc 
-Password giải nén: HQCNTH
+Link Onedrive: https://pwht-my.sharepoint.com/:u:/g/personal/free426_office365vn_online/ETM-A-m9AJ5EoIM5MUrILqUBsfIJl0kRUFp4_tvNdnf7eQ?e=9fznqR Password giải nén: HQCNTH
