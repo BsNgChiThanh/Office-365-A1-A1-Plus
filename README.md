@@ -71,3 +71,5 @@ https://github.com/congpho/kich-hoat-win-va-office/blob/master/Script_Kich_hoat_
 **Tool Active Windows và Office:**
 
 Link Onedrive: https://pwht-my.sharepoint.com/:u:/g/personal/free426_office365vn_online/ETM-A-m9AJ5EoIM5MUrILqUBsfIJl0kRUFp4_tvNdnf7eQ?e=9fznqR Password giải nén: HQCNTH
+
+**Tạo tài khoản Admin Office 365 E5, dùng thử 91 ngày, được quyền tạo 25 user** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EesOwV-3f8FCu_7O26_5VbMBzddfyujm0e7kN5MqB_fobw?e=dU0ZIR 
