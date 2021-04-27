@@ -9,21 +9,21 @@ _Lưu dữ liệu nên lưu trên nhiều nơi, lưu một nơi thì không an t
 _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5._
 
 **🔭Cách tạo cụ thể:**
->Tạo A1 Plus miền Stu.mao.office.gy: https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/ERNcO558avROtD1aAEiHYH0BRruwWTldPbduEC6sDSaFeQ?e=DgrGLl  
+>Tạo A1 Plus miền Stu.mao.office.gy: Vào đây!  
 
->Tạo A1, A1 Plus miền ms.mit.edu.ge, 365.mit.edu.ge: https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EaAGT9sW07pHqyZeguZgMfUBehbiSd7QVLlbJEm9aI4ATw?e=kBc3qi 
+>Tạo A1, A1 Plus miền ms.mit.edu.ge, 365.mit.edu.ge: Vào đây! 
 
->Tạo A1, A1 Plus miền awzg.office.gy hoặc awzg.sch.lv: https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXc3tgYqvL9KtB-P5k3kVFIBix0eIT5jo0jzRnag-M4bUw?e=1EyIal 
+>Tạo A1, A1 Plus miền awzg.sch.lv hoặc awzg.office.gy: Vào đây! 
 
-**🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
+**🔭Cách download bộ Office 365 như ý** Vào đây! 
 
-**🔭Cách kích hoạt Office 365 bằng tài khoản** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXpA3L_owq5IjHLCX1P5GKwBBZbwn98qNs8VxrsfA1Fzag?e=DFmtde 
+**🔭Cách kích hoạt Office 365 bằng tài khoản** Vào đây! 
 
-**🔭Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EcSfXLU1NLtNhozs5-zKOekB55tQAqoFRfaYevZiL7Yq1w?e=gzZeTn 
+**🔭Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus** Vào đây!
 
-**🔭Youtube tham khảo** https://www.youtube.com/watch?v=bw-saAes8ug 
+**🔭Youtube tham khảo** Vào đây!
 
-**Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
+**Hướng dẫn kiểm tra dung lượng Onedrive** Vào đây!
 
 **_Ngày 20.4.2021 sau một thời gian dài bị khóa Onedrive, các miền sau đã hoạt động trở lại: @onedrive5tb.com, @5tb.in, @mod.obagg.com, @zou.cnstu.run, @bu.cnstu.run, @mosidu.cnstu.run, @ms.mit.edu.ge …_**
 
@@ -60,16 +60,10 @@ A1P | 0911143603@stu.mao.office.gy | ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
 A1P | O365A1Plus@stu.mao.office.gy| ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
 
 
-**Tool Active Windows 10:**
+**Tool Active Windows 10:** Vào đây!
 
-https://github.com/vishalnagda1/windows-10-activator/blob/master/windows10.cmd 
+**Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:** Vào đây!
 
-**Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:**
+**Tool Active Windows và Office:** Link Onedrive Vào đây! Password giải nén: HQCNTH
 
-https://github.com/congpho/kich-hoat-win-va-office/blob/master/Script_Kich_hoat_Windows_va_Office_Online_6_thang.cmd 
-
-**Tool Active Windows và Office:**
-
-Link Onedrive: https://pwht-my.sharepoint.com/:u:/g/personal/free426_office365vn_online/ETM-A-m9AJ5EoIM5MUrILqUBsfIJl0kRUFp4_tvNdnf7eQ?e=9fznqR Password giải nén: HQCNTH
-
-**Tạo tài khoản Admin Office 365 E5, dùng thử 91 ngày, được quyền tạo 25 user** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EesOwV-3f8FCu_7O26_5VbMBzddfyujm0e7kN5MqB_fobw?e=dU0ZIR 
+**Tạo tài khoản Admin Office 365 E5, dùng thử 91 ngày, được quyền tạo 25 user** Vào đây! 
