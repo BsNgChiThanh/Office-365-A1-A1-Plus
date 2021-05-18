@@ -25,7 +25,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
 
-**_Tham gia nhóm Telegram https://t.me/Microsoft_365_Active để nhận tài khoản A5 miễn phí cho thành viên_**
+## Tham gia nhóm Telegram https://t.me/Microsoft_365_Active để nhận tài khoản A5 miễn phí cho thành viên, nhận A3 khi tham gia GA.
 
 # Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (18.05.2021): 
 
