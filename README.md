@@ -1,8 +1,8 @@
-# Tạo Office 365 A1, A1 Plus, và nhận A3, A5.
+# Tạo Office 365 A1, A1 Plus!
  
 ## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯 
 
-_Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởng không? Nó tồn tại bao lâu? Mua A3, A5 đi cho tốt! Xin trả lời rằng: có tiền cứ mua sử dụng, thoải mái lắm! nhưng đây là liệu pháp cho những ai đang túng tiền, kẹt tiền ví dụ như sinh viên đi xa nhà phần đông eo hẹp về kinh tế; thì đây là giải pháp tốt. Gần đây nổi lên nhóm Telegram https://t.me/Microsoft_365_Active trong đó tôi có tham gia, ở đó họ cấp A5 miễn phí cho thành viên, thật là tuyệt vời, còn chần chừ gì nữa, hãy gia nhập nhóm ngay, đăng kí nhận A5 miễn phí mỗi thành viên chỉ nhận được một tài khoản!_
+_Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởng không? Nó tồn tại bao lâu? Mua A3, A5 đi cho tốt! Xin trả lời rằng: có tiền cứ mua sử dụng, thoải mái lắm! nhưng đây là liệu pháp cho những ai đang túng tiền, kẹt tiền ví dụ như sinh viên đi xa nhà phần đông eo hẹp về kinh tế; thì đây là giải pháp tốt!_
 
 _Lưu dữ liệu nên lưu trên nhiều nơi, lưu một nơi thì không an toàn đâu nhé! Kể cả những anh admin nổi tiếng, nhà bán tài khoản Global O365 cũng không khẳng định được tài khoản của mình tồn tại bao lâu._
 
@@ -44,15 +44,6 @@ A1 | https://xkx.me | 5tb.in Khuyên chọn | ~~Onedrive trước đây 5Tb,~~ g
 A1 | http://office.zx.al | my365.ws | 5TB | Chọn Office365学生对 tức For Students, chọn thằng còn lại là của Faculty |
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB | 
-
-**_Một số acc tạo sẵn, bạn nào thích thì lấy đổi mật khẩu mà dùng:_**
-
-Giấy phép | ACC | Onedrive | Outlook | Mật khẩu
--- | -- | -- | -- | -- 
-A1P | Wuikfe24831@stu.mao.office.gy | ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
-A1P | 0911143603@stu.mao.office.gy | ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
-A1P | O365A1Plus@stu.mao.office.gy| ~~Onedrive~~ | ~~Outlook~~ | Bieu2021
-
 
 **Tool Active Windows 10:**
 
