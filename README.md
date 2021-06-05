@@ -9,7 +9,7 @@ _Lưu dữ liệu nên lưu trên nhiều nơi, lưu một nơi thì không an t
 _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5._
 
 **🔭Cách tạo cụ thể:**
->Tạo A1 Plus nay đã bị block hoàn toàn: 
+>Tạo A1 Plus nay đã bị block hoàn toàn!
 
 **🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
