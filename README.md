@@ -27,7 +27,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 ## Tham gia nhóm Telegram https://t.me/Microsoft_365_Active để nhận tài khoản A5 miễn phí cho thành viên, nhận A3 khi tham gia GA.
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 đáng tin cậy (05.06.2021): 
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (05.06.2021): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
