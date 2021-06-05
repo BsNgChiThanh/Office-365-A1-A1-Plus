@@ -1,4 +1,4 @@
-# Tạo Office 365 A1, A1 Plus!
+# Tạo Office 365 A1, Office 365 A1 Plus đã chính thức không còn reg free được.
  
 ## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯 
 
@@ -27,7 +27,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 ## Tham gia nhóm Telegram https://t.me/Microsoft_365_Active để nhận tài khoản A5 miễn phí cho thành viên, nhận A3 khi tham gia GA.
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (18.05.2021): 
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 đáng tin cậy (05.06.2021): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
@@ -36,7 +36,7 @@ A5 | https://t.me/Microsoft_365_Active | | 1Tb, 5Tb | Tham gia nhóm Telegram kh
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~vip.stu.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~awzg.office.gy hoặc awzg.sch.lv~~ | ~~5TB~~ | ~~Tham gia nhóm **!爱我中国** để nhận A1P~~
 ~~A1~~+A1P | ~~https://www.1tb.fun~~ | ~~Office A1 dạng ms.mit.edu.ge~~, A1 Plus dạng 365.mit.edu.ge | ~~5TB~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 7 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
-A1+A1P | https://od.obagg.com | Chọn miền ashadevipolytechnic.in | 1TB | Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này tồn tại và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí.
+A1+~~A1P~~ | https://od.obagg.com | ~~Chọn miền ashadevipolytechnic.in | 1TB | Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này tồn tại và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí.~~ Chỉ còn A1 mà thôi.
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 A1 | https://od.obagg.com | iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in | 1Tb | 
