@@ -31,7 +31,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
-A5 | https://t.me/Microsoft_365_Active | | 1Tb, 5Tb | Tham gia nhóm Telegram không rời nhóm thì mổi thành viên sẽ được cấp một tài khoản, nhanh chân lên |
+A5 | https://t.me/joinchat/OOQ3ueSIkV5kNWI1 | | 1Tb, 5Tb | Tham gia nhóm Telegram không rời nhóm thì mổi thành viên sẽ được cấp một tài khoản, nhanh chân lên |
 ~~A1+A1P~~ | ~~http://24mail.chacuo.net~~ | ~~stu.mao.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~vip.stu.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~awzg.office.gy hoặc awzg.sch.lv~~ | ~~5TB~~ | ~~Tham gia nhóm **!爱我中国** để nhận A1P~~
