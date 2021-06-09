@@ -10,6 +10,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 **🔭Cách tạo cụ thể:**
 >Tạo A1 Plus nay đã bị block hoàn toàn!
+>Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE 
 
 **🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
@@ -29,8 +30,6 @@ Giấy phép | URL | Miền | Onedrive | Ghi chú
 A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 7 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
 A1+~~A1P~~ | https://od.obagg.com | ~~Chọn miền ashadevipolytechnic.in~~ | 1TB | ~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này tồn tại và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí.~~ Chỉ còn A1 mà thôi.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
-A1 | http://www.yopmail.com | zhongguo.office.gy aiwozhongguo.office.gy | 5Tb | Xác nhận tin nhắn SMS qua điện thoại mới tạo được tài khoản. 
-A1 | http://www.yopmail.com | ropcourses.com| 2Tb |  
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 A1 | https://od.obagg.com | iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in | 1Tb | 
