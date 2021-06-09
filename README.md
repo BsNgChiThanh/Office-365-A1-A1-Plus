@@ -11,7 +11,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 **🔭Cách tạo cụ thể:**
 >Tạo A1 Plus nay đã bị block hoàn toàn!
 
->Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE 
+>Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE hoặc https://www.youtube.com/watch?v=LSpUuJ7jpmI 
 
 **🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
 
