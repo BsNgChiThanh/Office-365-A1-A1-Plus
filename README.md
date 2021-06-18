@@ -21,14 +21,14 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (05.06.2021): 
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (18.06.2021): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
 ~~A1+A1P~~ | ~~http://24mail.chacuo.net~~ | ~~stu.mao.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~vip.stu.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~awzg.office.gy hoặc awzg.sch.lv~~ | ~~5TB~~ | ~~Tham gia nhóm **!爱我中国** để nhận A1P~~
-A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 7 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
+A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 14-30 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
 A1+A1P | https://od.obagg.com | Chọn miền @crpolytechnic.in | 1TB | Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
