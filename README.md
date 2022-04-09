@@ -28,7 +28,7 @@ _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùn
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://bit.ly/3v6BmlL 
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (18.06.2021): 
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (09.4.2022): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
