@@ -40,7 +40,7 @@ A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office 
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
-A1 | https://od.obagg.com | iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in | 1Tb | 
+~~A1~~ |~~https://od.obagg.com~~|~~iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in~~|~~1Tb~~| 
 A1 | https://xkx.me | 5tb.in Khuyên chọn | ~~Onedrive trước đây 5Tb,~~ giờ 1Tb | 
 A1 | http://office.zx.al | my365.ws | 5TB | Chọn Office365学生对 tức For Students, chọn thằng còn lại là của Faculty |
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
