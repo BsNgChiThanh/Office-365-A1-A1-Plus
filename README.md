@@ -46,9 +46,7 @@ A1 | http://office.zx.al | my365.ws | 5TB | Chọn Office365学生对 tức For 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB | 
 
- **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:**
-
-https://bit.ly/3xgMakg 
+ **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:** https://bit.ly/3xgMakg 
 
 **Tool Active Windows và Office:**
 
