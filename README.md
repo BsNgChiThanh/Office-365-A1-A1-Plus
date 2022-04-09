@@ -19,7 +19,7 @@ _Nếu ai cần POWER BI hoặc POWER AUTOMATE thì liên hệ: https://bit.ly/3
 
 >Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE  
 
->Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mổi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M  
+>Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mỗi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M  
 
 
 **🔭Cách download bộ Office 365 như ý** https://bit.ly/373BGtH 
