@@ -13,7 +13,7 @@ _Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + 
 _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu 
 
 **🔭Cách tạo cụ thể:**
->~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk ~~
+>~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk~~
 
 >Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE  
 
@@ -28,7 +28,7 @@ _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùn
 
 **Hướng dẫn kiểm tra dung lượng Onedrive** https://bit.ly/3v6BmlL 
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (09.04.2022): 
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (18.06.2021): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
@@ -36,7 +36,7 @@ Giấy phép | URL | Miền | Onedrive | Ghi chú
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~vip.stu.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~awzg.office.gy hoặc awzg.sch.lv~~ | ~~5TB~~ | ~~Tham gia nhóm **!爱我中国** để nhận A1P~~
 A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 14-30 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
-~~A1+A1P~~ |~~https://od.obagg.com~~|~~Chọn miền @crpolytechnic.in~~|~~1TB~~|~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí~~.
+~~A1+A1P~~|~~https://od.obagg.com~~|~~Chọn miền @crpolytechnic.in~~|~~1TB~~|~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí~~.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
