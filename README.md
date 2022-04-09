@@ -12,6 +12,8 @@ _Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + 
 
 _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu_
 
+_Nếu ai cần POWER BI hoặc POWER AUTOMATE thì liên hệ: https://bit.ly/3NYsLdt với một giá rất hữu nghị, tình thương mến thương_
+
 **🔭Cách tạo cụ thể:**
 >~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk~~
 
