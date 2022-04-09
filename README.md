@@ -6,22 +6,29 @@ _Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởn
 
 _Lưu dữ liệu nên lưu trên nhiều nơi, lưu một nơi thì không an toàn đâu nhé! Kể cả những anh admin nổi tiếng, nhà bán tài khoản Global O365 cũng không khẳng định được tài khoản của mình tồn tại bao lâu._
 
-_Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5._
+_Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5. 
+
+_Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + Tool active Windows 10 tạm gọi như O365 A5.
+
+_Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu 
 
 **🔭Cách tạo cụ thể:**
->Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk 
+>~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk ~~
 
 >Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE  
 
-**🔭Cách download bộ Office 365 như ý** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EeaVSLyET3JAjJA5aNVtAJoBjaKDUm70d8MmaAef9N8PFA?e=kvfOVG 
+>Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mổi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M  
 
-**🔭Cách kích hoạt Office 365 bằng tài khoản** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EXpA3L_owq5IjHLCX1P5GKwBBZbwn98qNs8VxrsfA1Fzag?e=DFmtde 
 
-**🔭Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EcSfXLU1NLtNhozs5-zKOekB55tQAqoFRfaYevZiL7Yq1w?e=gzZeTn 
+**🔭Cách download bộ Office 365 như ý** https://bit.ly/373BGtH 
 
-**Hướng dẫn kiểm tra dung lượng Onedrive** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EQKuGX3rbrtMufadK5p7QYMB4stB1-s7moBzJDppvYOkMg?e=WSPpZY 
+**🔭Cách kích hoạt Office 365 bằng tài khoản**  https://bit.ly/3KCYw9S 
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (18.06.2021): 
+**🔭Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus**  https://bit.ly/3DThKG1 
+
+**Hướng dẫn kiểm tra dung lượng Onedrive** https://bit.ly/3v6BmlL 
+
+# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (09.04.2022): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
@@ -29,7 +36,7 @@ Giấy phép | URL | Miền | Onedrive | Ghi chú
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~vip.stu.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~awzg.office.gy hoặc awzg.sch.lv~~ | ~~5TB~~ | ~~Tham gia nhóm **!爱我中国** để nhận A1P~~
 A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 14-30 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
-A1+A1P | https://od.obagg.com | Chọn miền @crpolytechnic.in | 1TB | Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí.
+A1+A1P |~~https://od.obagg.com~~|~~Chọn miền @crpolytechnic.in~~|~~1TB~~|~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí~~.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
@@ -39,16 +46,10 @@ A1 | http://office.zx.al | my365.ws | 5TB | Chọn Office365学生对 tức For 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB | 
 
-**Tool Active Windows 10:**
-
-https://github.com/vishalnagda1/windows-10-activator/blob/master/windows10.cmd 
-
-**Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:**
+ **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:**
 
 https://github.com/congpho/kich-hoat-win-va-office/blob/master/Script_Kich_hoat_Windows_va_Office_Online_6_thang.cmd 
 
 **Tool Active Windows và Office:**
 
 Link Onedrive: https://pwht-my.sharepoint.com/:u:/g/personal/free426_office365vn_online/ETM-A-m9AJ5EoIM5MUrILqUBsfIJl0kRUFp4_tvNdnf7eQ?e=9fznqR Password giải nén: HQCNTH
-
-**Tạo tài khoản Admin Office 365 E5, dùng thử 91 ngày, được quyền tạo 25 user** https://pwht-my.sharepoint.com/:w:/g/personal/free426_office365vn_online/EesOwV-3f8FCu_7O26_5VbMBzddfyujm0e7kN5MqB_fobw?e=dU0ZIR 
