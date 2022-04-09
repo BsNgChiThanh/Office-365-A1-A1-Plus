@@ -48,8 +48,8 @@ A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB |
 
  **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:**
 
-https://github.com/congpho/kich-hoat-win-va-office/blob/master/Script_Kich_hoat_Windows_va_Office_Online_6_thang.cmd 
+https://bit.ly/3xgMakg 
 
 **Tool Active Windows và Office:**
 
-Link Onedrive: https://pwht-my.sharepoint.com/:u:/g/personal/free426_office365vn_online/ETM-A-m9AJ5EoIM5MUrILqUBsfIJl0kRUFp4_tvNdnf7eQ?e=9fznqR Password giải nén: HQCNTH
+Link Onedrive: https://bit.ly/3LPgq9M Password giải nén: HQCNTH
