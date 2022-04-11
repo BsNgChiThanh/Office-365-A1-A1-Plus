@@ -1,4 +1,4 @@
-# Tạo Office 365 A1, Office 365 A1 Plus.
+# Tạo Office 365 A1, Office 365 A1 Plus, Office 365 E5 tự động gia hạn mỗi 3 tháng.
  
 ## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯 
 
@@ -19,7 +19,7 @@ _Nếu ai cần POWER BI hoặc POWER AUTOMATE thì liên hệ: https://bit.ly/3
 
 >Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE  
 
->Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mỗi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M  
+>_Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mỗi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M. Khi tạo ra Admin E5 này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để được 5Tb tham khảo https://www.youtube.com/watch?v=8zK_51eBFXs. Bạn có thể liên kết với một miền khác ví dụ 5Tb.in, ngaoda.com ... thông qua video hướng dẫn: https://www.youtube.com/watch?v=yRblwFAeL3I&t=1s. Nếu bạn có tiền thì mua miền sang chảnh để dùng, còn nghèo như tôi thì dùng miền miễn phí https://my.freenom.com/, miền này miễn phí được 12 tháng, bạn hãy đặt thông báo nhắc nhỡ cho điện thoại di động để biết còn khoản 14 ngày nữa hế hạn thì vào gia hạn miền thêm 12 tháng và cứ lập lại chư thế nhiều lần nếu bạn thích. Bạn có thể triển khai Mathtype (Ứng dụng tạo công thức toán và hóa học) cho toàn bộ Admin của mình, hãy tham khảo https://www.youtube.com/watch?v=SPRKoLiTKEw&t=298s! (Không cần phải Crack Mathtype cho mệt mỏi)_
 
 
 **🔭Cách download bộ Office 365 như ý** https://bit.ly/373BGtH 
