@@ -12,14 +12,12 @@ _Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + 
 
 _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu_
 
-_Nếu ai cần POWER BI hoặc POWER AUTOMATE thì liên hệ: https://bit.ly/3NYsLdt với một giá rất hữu nghị, tình thương mến thương_
-
 **🔭Cách tạo cụ thể:**
 >~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk~~
 
 >Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE  
 
->_Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mỗi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M. Khi tạo ra Admin E5 này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để được 5Tb tham khảo https://bit.ly/3KxvsAT. Bạn có thể liên kết với một miền khác ví dụ 5Tb.in, ngaoda.com ... thông qua video hướng dẫn: https://bit.ly/3rg10nb. Nếu bạn có tiền thì mua miền sang chảnh để dùng, còn nghèo như tôi thì dùng miền miễn phí https://my.freenom.com/, miền này miễn phí được 12 tháng, bạn hãy đặt thông báo nhắc nhỡ cho điện thoại di động để biết còn khoản 14 ngày nữa hết hạn thì vào gia hạn miền thêm 12 tháng và cứ lập lại chư thế nhiều lần nếu bạn thích. Bạn có thể triển khai Mathtype (Ứng dụng tạo công thức toán và hóa học) cho toàn bộ Admin của mình, hãy tham khảo https://bit.ly/3v7L7QW! (Không cần phải Crack Mathtype cho mệt mỏi)_
+>_Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mỗi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M. Khi tạo ra Admin E5 này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để được 5Tb tham khảo https://bit.ly/3KxvsAT. Bạn có thể liên kết với một miền khác ví dụ 5Tb.in, ngaoda.com ... thông qua video hướng dẫn: https://bit.ly/3rg10nb. Nếu bạn có tiền thì mua miền sang chảnh để dùng, còn nghèo như tôi thì dùng miền miễn phí https://my.freenom.com/, miền này miễn phí được 12 tháng, bạn hãy đặt thông báo nhắc nhỡ cho điện thoại di động để biết còn khoản 14 ngày nữa hết hạn thì vào gia hạn miền thêm 12 tháng và cứ lập lại chư thế nhiều lần nếu bạn thích. Bạn có thể triển khai Mathtype (Ứng dụng tạo công thức toán và hóa học) cho toàn bộ Admin của mình, hãy tham khảo https://bit.ly/3v7L7QW! (Không cần phải Crack Mathtype cho mệt mỏi). Khi tạo ra Admin 365 E5, các bạn đăng nhập vào link sau để lấy thêm giấy phép hoạt động, POWER BI: https:/bit.ly/3DXVCdz, POWER APPS: https://bit.ly/3Jvti36, POWER VIRTUAL: https://bit.ly/3rhd4oa, POWER AUTOMATE: https://bit.ly/3DZal7U._
 
 
 **🔭Cách download bộ Office 365 như ý** https://bit.ly/373BGtH 
@@ -51,3 +49,9 @@ A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB |
  **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:** https://bit.ly/3xgMakg 
 
 **Tool Active Windows và Office:** Link Onedrive: https://bit.ly/3LPgq9M Password giải nén: HQCNTH
+
+**Facebook của tôi:** https://bit.ly/3NYsLdt
+
+## Một số tài khoản A1 Plus, A3, A5, E3, E5 đã có sẵn ##
+
+_Hãy dùng cho việc kích hoạt Office 365 for desktop, không dùng Onedrive vì tài khoản này ai cũng biết, đặc biệt không đổi password được, hãy bấm vào link: https://bit.ly/35Z8FPc_
