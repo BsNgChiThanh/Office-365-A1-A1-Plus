@@ -9,26 +9,40 @@ _Lưu dữ liệu nên lưu trên nhiều nơi, lưu một nơi thì không an t
 _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói nôm na như thế này cho dễ hiểu: O365 A5 kích hoạt được O365 offline và active được Windows 10. Vậy chúng ta có liệu pháp thay thế: tạo A1+A1 plus + Tool active Windows 10 tạm gọi như O365 A5._ 
 
 _Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + Tool active Windows 10 tạm gọi như O365 A5._
+![1](https://user-images.githubusercontent.com/82578024/162867102-dca2ef9e-f43d-44af-9c49-f90bc15b3a6e.jpg)
 
 _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu_
 
-**🔭Cách tạo cụ thể:**
+## Cách tạo cụ thể ##
 >~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk~~
 
 >Tạo A1 China có Onedrive 1Tb, 5Tb https://youtu.be/T8rWcM7q6Sw hoặc https://youtu.be/BiwA7L578YE  
 
 >_Ngày nay các trang tạo A1 Plus đều bị khóa! Nên Tạo tài khoản Admin Office 365 E5, dùng thử 92 ngày, được quyền tạo 25 user, và được hệ thống tự gia hạn mỗi 3 tháng, tôi đã được gia hạn tới 6 lần rồi mà vẫn còn ngon lành cành đào: https://bit.ly/3NWTG9M. Khi tạo ra Admin E5 này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để được 5Tb tham khảo https://bit.ly/3KxvsAT. Bạn có thể liên kết với một miền khác ví dụ 5Tb.in, ngaoda.com ... thông qua video hướng dẫn: https://bit.ly/3rg10nb. Nếu bạn có tiền thì mua miền sang chảnh để dùng, còn nghèo như tôi thì dùng miền miễn phí https://my.freenom.com/, miền này miễn phí được 12 tháng, bạn hãy đặt thông báo nhắc nhỡ cho điện thoại di động để biết còn khoản 14 ngày nữa hết hạn thì vào gia hạn miền thêm 12 tháng và cứ lập lại chư thế nhiều lần nếu bạn thích. Bạn có thể triển khai Mathtype (Ứng dụng tạo công thức toán và hóa học) cho toàn bộ Admin của mình, hãy tham khảo https://bit.ly/3v7L7QW! (Không cần phải Crack Mathtype cho mệt mỏi). Khi tạo ra Admin 365 E5, các bạn đăng nhập vào link sau để lấy thêm giấy phép hoạt động, POWER BI: https:/bit.ly/3DXVCdz, POWER APPS: https://bit.ly/3Jvti36, POWER VIRTUAL: https://bit.ly/3rhd4oa, POWER AUTOMATE: https://bit.ly/3DZal7U._
+![1](https://user-images.githubusercontent.com/82578024/162866315-ee675f07-f1df-49f9-ad5e-3a676f98cf87.jpg)
 
 
-**🔭Cách download bộ Office 365 như ý** https://bit.ly/373BGtH 
+## Cách download bộ Office 365 như ý ## 
 
-**🔭Cách kích hoạt Office 365 bằng tài khoản**  https://bit.ly/3KCYw9S 
+Xem tại đây: https://bit.ly/373BGtH 
 
-**🔭Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus**  https://bit.ly/3DThKG1 
+![1](https://user-images.githubusercontent.com/82578024/162867549-b425316b-441c-4b36-9f6d-40a068cbff63.jpg)
 
-**Hướng dẫn kiểm tra dung lượng Onedrive** https://bit.ly/3v6BmlL 
+## Cách kích hoạt Office 365 bằng tài khoản ##
 
-# Bs Nguyễn Chí Thành xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (09.4.2022): 
+Xem tại đây: https://bit.ly/3KCYw9S 
+![1](https://user-images.githubusercontent.com/82578024/162868504-f13b1f2a-76a4-4dbe-819b-816ae899a47e.jpg)
+
+## Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus ##
+
+Xem tại đây: https://bit.ly/3DThKG1 
+
+## Hướng dẫn kiểm tra dung lượng Onedrive ##
+
+Xem tại đây: https://bit.ly/3v6BmlL 
+![1](https://user-images.githubusercontent.com/82578024/162869048-98f6a3c7-1c80-4639-b457-20a483dd57da.jpg)
+
+# Tôi xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (09.4.2022): 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
