@@ -69,3 +69,5 @@ A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB |
 ## Một số tài khoản A1 Plus, A3, A5, E3, E5 đã có sẵn ##
 
 _Hãy dùng cho việc kích hoạt Office 365 for desktop, không dùng Onedrive vì tài khoản này ai cũng biết, đặc biệt không đổi password được, hãy bấm vào link: https://bit.ly/35Z8FPc_
+
+[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)
