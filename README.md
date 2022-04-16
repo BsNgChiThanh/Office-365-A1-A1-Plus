@@ -27,6 +27,15 @@ _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùn
 
 Xem tại đây: https://bit.ly/373BGtH 
 
+Hoặc download tử [Office Tool Plus](https://otp.landian.vip/en-us/download.html), chúng dùng để download và cài đặt Office, cũng có thể dùng active office.
+![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
+Chọn Office sau đó intall licenses, bấm Yes
+![2](https://user-images.githubusercontent.com/82578024/163676923-384d2e00-6f0d-4585-aeec-cdb22e5b08cd.jpg)
+Quá trình Intall sẽ diễn ra, khi xong chúng ta bấm nút active!
+![3](https://user-images.githubusercontent.com/82578024/163676979-a2c41195-a9ce-4ac9-a309-e38046730837.jpg)
+![4](https://user-images.githubusercontent.com/82578024/163677053-a066a590-5f64-4890-a236-f0971909cfba.jpg)
+Hoàn thành active!
+
 ![1](https://user-images.githubusercontent.com/82578024/162867549-b425316b-441c-4b36-9f6d-40a068cbff63.jpg)
 
 ## Cách kích hoạt Office 365 bằng tài khoản ##
