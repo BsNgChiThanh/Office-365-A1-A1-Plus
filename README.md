@@ -27,7 +27,7 @@ _Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùn
 
 Xem tại đây: https://bit.ly/373BGtH 
 
-Hoặc download tử [Office Tool Plus](https://otp.landian.vip/en-us/download.html), chúng dùng để download và cài đặt Office, cũng có thể dùng active office.
+Hoặc download từ [Office Tool Plus](https://otp.landian.vip/en-us/download.html), chúng dùng để download và cài đặt Office, cũng có thể dùng active office.
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
 ![2](https://user-images.githubusercontent.com/82578024/163676923-384d2e00-6f0d-4585-aeec-cdb22e5b08cd.jpg)
