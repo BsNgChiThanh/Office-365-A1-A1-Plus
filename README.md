@@ -1,5 +1,7 @@
 # Tạo Office 365 A1, Office 365 A1 Plus, Office 365 E5 tự động gia hạn mỗi 3 tháng.
  
+ ## Github này thỉnh thoảng được cập nhập để tránh bị lạc hậu ##
+ 
 ## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯 
 
 _Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởng không? Nó tồn tại bao lâu? Mua A3, A5 đi cho tốt! Xin trả lời rằng: có tiền cứ mua sử dụng, thoải mái lắm! nhưng đây là liệu pháp cho những ai đang túng tiền, kẹt tiền ví dụ như sinh viên đi xa nhà phần đông eo hẹp về kinh tế; thì đây là giải pháp tốt!_
@@ -58,7 +60,7 @@ Giấy phép | URL | Miền | Onedrive | Ghi chú
 ~~A1+A1P~~ | ~~http://24mail.chacuo.net~~ | ~~stu.mao.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~vip.stu.office.gy~~ | ~~Onedrive~~ | ~~Tham gia nhóm **Nuran.com** để nhận A1P~~
 ~~A1+A1P~~ | ~~http://www.yopmail.com~~ | ~~awzg.office.gy hoặc awzg.sch.lv~~ | ~~5TB~~ | ~~Tham gia nhóm **!爱我中国** để nhận A1P~~
-A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 14-30 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
+A1P | https://t.me/ms_1tb  | A1 Plus dạng 365.mit.edu.ge Ngày hôm nay chỉ còn duy nhất nơi đây tạo và cho miễn phí Office A1Plus | ~~Onedrive, Office online~~ | Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 14-30 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.
 ~~A1+A1P~~|~~https://od.obagg.com~~|~~Chọn miền @crpolytechnic.in~~|~~1TB~~|~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí~~.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
