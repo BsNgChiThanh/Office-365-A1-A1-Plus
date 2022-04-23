@@ -16,7 +16,7 @@ _Còn O365 A5 có khác gì so với O365 A1, O365 A5 = O365 A1 + O365 A3, nói 
 _Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + Tool active Windows 10 tạm gọi như O365 A5._
 ![1](https://user-images.githubusercontent.com/82578024/162867102-dca2ef9e-f43d-44af-9c49-f90bc15b3a6e.jpg)
 
-_Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu_
+**Một số tài khoản O 365 A1 Plus, A3 tạo sẵn các bạn có thể dùng active Office 365 for desktop: https://bit.ly/3LLQ4Fu**
 
 ## Cách tạo cụ thể ##
 >~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk~~
