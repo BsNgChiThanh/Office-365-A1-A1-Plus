@@ -5,7 +5,7 @@
  
  ## Github này thỉnh thoảng được cập nhập để tránh bị lạc hậu ##
  
-## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office đáng tin cậy!👯 
+## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office 365!👯 
 
 _Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởng không? Nó tồn tại bao lâu? Mua A3, A5 đi cho tốt! Xin trả lời rằng: có tiền cứ mua sử dụng, thoải mái lắm! nhưng đây là liệu pháp cho những ai đang túng tiền, kẹt tiền ví dụ như sinh viên đi xa nhà phần đông eo hẹp về kinh tế; thì đây là giải pháp tốt!_
 
@@ -56,7 +56,7 @@ Xem tại đây: https://bit.ly/3DThKG1
 Xem tại đây: https://bit.ly/3v6BmlL 
 ![1](https://user-images.githubusercontent.com/82578024/162869048-98f6a3c7-1c80-4639-b457-20a483dd57da.jpg)
 
-# Tôi xin tổng hợp một số link tạo Office 365 A1 và A1 Plus đáng tin cậy (09.4.2022): 
+# Tôi xin tổng hợp một số link tạo Office 365 A1 và A1 Plus: 
 
 Giấy phép | URL | Miền | Onedrive | Ghi chú
 -- | -- | -- | -- | -- 
@@ -69,7 +69,7 @@ A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |
 A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 ~~A1~~ |~~https://od.obagg.com~~|~~iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in~~|~~1Tb~~| 
-A1 | https://xkx.me | 5tb.in Khuyên chọn | ~~Onedrive trước đây 5Tb,~~ giờ 1Tb | 
+~~A1~~ | ~~https://xkx.me~~ | ~~5tb.in Khuyên chọn~~ | ~~5Tb~~ | 
 ~~A1~~ | ~~http://office.zx.al~~ | ~~my365.ws~~ | ~~5TB~~ | ~~Chọn Office365学生对 tức For Students, chọn thằng còn lại là của Faculty~~|
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB | 
