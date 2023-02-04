@@ -124,17 +124,17 @@ Hoàn thành active!
 
 ## Cách kích hoạt Office 365 bằng tài khoản ##
 
-Xem tại đây: https://bit.ly/3KCYw9S 
+Điền tài khoản và nhập password vào cửa sổ như hình bên dưới là xong.
 ![1](https://user-images.githubusercontent.com/82578024/162868504-f13b1f2a-76a4-4dbe-819b-816ae899a47e.jpg)
-
-## Cách đăng xuất một máy tính ra khỏi tài khoản Office 365 A1 Plus ##
-
-Xem tại đây: https://bit.ly/3DThKG1 
 
 ## Hướng dẫn kiểm tra dung lượng Onedrive ##
 
-Xem tại đây: https://bit.ly/3v6BmlL 
-![1](https://user-images.githubusercontent.com/82578024/162869048-98f6a3c7-1c80-4639-b457-20a483dd57da.jpg)
+![image](https://user-images.githubusercontent.com/82578024/216732219-b147bb8f-36a6-4c96-9e11-90cb26b16634.png)
+![image](https://user-images.githubusercontent.com/82578024/216732642-41027a7d-a543-451b-a5aa-f325bd23eafc.png)
+![image](https://user-images.githubusercontent.com/82578024/216732694-deaa0249-f9e4-4112-ab09-0f4076501faf.png)
+![image](https://user-images.githubusercontent.com/82578024/216732720-195677f8-796c-4c02-b519-19f46026e60b.png)
+![image](https://user-images.githubusercontent.com/82578024/216732784-e7dcd8b1-7f5f-42fa-9931-e8dbb35ed9f4.png)
+
 
 # Tôi xin tổng hợp một số link tạo Office 365 A1 và A1 Plus: 
 
