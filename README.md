@@ -105,7 +105,7 @@ A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB |
 
 [Tham khảo thêm về active office](https://github.com/BsNgChiThanh/Kich-hoat-Office)
 
-**Facebook của tôi:** https://bit.ly/3NYsLdt
+**Facebook của tôi:** https://www.facebook.com/BsNguyenChiThanh
 
 ## Một số tài khoản A1 Plus, A3, A5, E3, E5 đã có sẵn ##
 
