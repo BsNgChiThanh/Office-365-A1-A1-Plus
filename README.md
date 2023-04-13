@@ -1,17 +1,10 @@
-# Office-365-A1-A1-Plus-E5
-
 Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231746693-705972d0-6d3b-41e2-bb80-9a80f9b1018a.jpg)
 
 # Tạo Office 365 A1, Office 365 A1 Plus, Office 365 E5 tự động gia hạn mỗi 3 tháng.
  
- ## Gi![IMG_16743144![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231746652-34d36f74-1cd0-43b5-8835-3feacc7526c2.jpg)
-82411_1674314628494](https://user-images.githubusercontent.com/82578024/231746553-014a37ec-f568-48a8-bcb5-2827748ffd0e.jpg)
-thub này thỉnh thoảng được cập nhập để tránh bị lạc hậu ##
- 
 ## 👯Sau đây tôi xin giới thiệu một số trang web tạo Office 365!👯 
-![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231746592-c5f901bf-abde-4250-a73e-f34347bfe884.jpg)
 
 _Có nhiều người cho rằng tài khoản của Trung Quốc có tin tưởng không? Nó tồn tại bao lâu? Mua A3, A5 đi cho tốt! Xin trả lời rằng: có tiền cứ mua sử dụng, thoải mái lắm! nhưng đây là liệu pháp cho những ai đang túng tiền, kẹt tiền ví dụ như sinh viên đi xa nhà phần đông eo hẹp về kinh tế; thì đây là giải pháp tốt!_
 
