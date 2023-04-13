@@ -20,83 +20,26 @@ _Có một cách khác O365 A5 = O365 E5 bản dùng thử 3 tháng AUTORENEW + 
 
 |TÀI KHOẢN	| Password |
 |--|--|
-|ac16-2289@365.unphu.edu.do|QXzh.4929
-|amandachop@nhia.edu|keesha12345
+
+|awilson29@twu.edu	|Cupcake7899!
 |aadame110@email.itt-tech.edu|mouw91011
-|antonio.eduardo@aedu.com|91934724
-|bohonkog@ucu.edu.ua|Chokan1975!
-|cfranks110@email.itt-tech.edu|12061983
 |cward14@twu.edu|Jeeplife2007!|
 |dengland112@email.itt-tech.edu|02231978
-|eprado110@email.itt-tech.edu | 0206-ITT |
-|edilson.engenharia@aedu.com|Dafine1209
-|elias.zadrazil@hakhollabrunn.ac.at|Elias2017
-|elizabethreed@nhia.edu|TOot4567
-|emily.ribadeneira@ute.edu.ec|Emily1750741439|
-|engkaique@pitagoras.edu.br|s2a8w1u4
-|eelton@nwcc.nsw.edu.au|ust3997192|
-|jbloom@sterling.edu|lootelf|
+|jcasimere@twu.edu|Charmayne23!
 |jwhite223@email.itt-tech.edu|jw448016|
-|james.simmons@nwcc.nsw.edu.au|Henry080302|
-|jmoran@lions.molloy.edu|valHALlaRising5|
 |jcasimere@twu.edu|Charmayne23!|
-|HJones13@twu.edu|hAujanae1!|
-|hsantana@email.itt-tech.edu|kingdomcome
-|kelliot5@binghamton.edu|kerriE73|
-|gaellell@blanquerna.url.edu|11California
-|mhhousain@ub.edu.sa|Mh20121972|
-|mdhane@email.itt-tech.edu|1Pdickle
-|nathalia.semiao@aedu.com|nathy2710
-|rsmith63@email.itt-tech.edu|06291981
-|sio0003@elwood.vic.edu.au|appaloosa
-|sedwards120@email.itt-tech.edu|scott2007
-|syanne.douglas@my.uwi.edu|1992kymani|
-|skent110@email.itt-tech.edu|08131984
-|u182053r0058@sabes.edu.mx|e14dC7DD*
-|u20243225@utp.edu.pe|theaparexX12|
-|u21231062@utp.edu.pe |andrew23|
-|u21224566@utp.edu.pe |fabianvegapaxi4321|
-|u21205607@utp.edu.pe |unisimo123|
-|ulmbu23@icstudents.org |hawk18|
-|usama.0469503@talmeez.pk |asd@2019|
-|vaibhav11032@bluebellsinternational.com |Guh34001|
-|vbanda@twu.edu|Focus_2015|
+|HJones13@twu.edu|hAujanae1!| 
+|kjenkins8@twu.edu	| Sarah3881_
+|skent110@email.itt-tech.edu|08131984 
+|vbanda@twu.edu|Focus_2015| 
 |vbennett@twu.edu |Senior2014!|
-|vefit24@icstudents.org |lily07|
-|vfrench@email.itt-tech.edu|USarmy87|
-|vfabriz1@binghamton.edu |Carlie00|
-|vh5595@stu.armstrong.edu |Vanessa123|
-|vhernandez18@twu.edu |Her123456!|
-|victor.ivarsson@skola.malung-salen.se |12345|
-|vnguyen16@twu.edu |123Uyenvy!|
-|vonklarrh@baylorschool.org |z7hbf6|
-|voub932@lasierra.edu |Soccerforlife07|
-|vperez11@twu.edu|Iloveyou1995!|
-|vsambapanza1@numerique-educatif.fr 	|Clyver_236|
-|vspain@email.itt-tech.edu|08051961
-|vvaught01@saintmarys.edu |Lphs2016!|
-|Vvaglica@lions.molloy.edu |Eagle999|
-|vw6244@stu.armstrong.edu |0kkky3aa|
-|wasin.kou@spulive.net|1119900872077|
-|watthana.int@spulive.net |0860108358|
-|wcarter34@bethelu.edu|Wdfcfashionking1|
-|wesharon@chinleusd.k12.az.us |cecel|
+|vh5595@stu.armstrong.edu |Vanessa123| 
+|vhernandez18@twu.edu |Her123456!| 
+|vnguyen16@twu.edu |123Uyenvy!| 
+|vw6244@stu.armstrong.edu |0kkky3aa| 
 |we2838@stu.armstrong.edu |	whitney1|
-|wesleymirandadasilva@ied.edu |00BR0000022679|
-|whitemm1@lavalla.vic.edu.au |ww0758|
-|wilberth.morales@uamcr.net|Rriqzum636|
-|wil.rrsilva@senacsp.edu.br |galaodarkness|
-|wilson.cameron@pembrokek12.org|wilson|
-|windj24@icstudents.org |bump24|
-|wle1@binghamton.edu |Abc42892|
-|wgon902@lasierra.edu |Juliet712!|
-|wxwang15@smumn.edu |WANGWANYU31|
-|xgremard21@jacksonindians.us |pass3263|
-|xwen4@binghamton.edu |wX19920929|
-|x202107767@cibertec.edu.pe |Roissoaz20|
-|zgaines110@email.itt-tech.edu|22debbie
-|316152005@unifacs.edu.br|06068071
-
+|wesleymirandadasilva@ied.edu |00BR0000022679|  
+ 
 ## Cách tạo cụ thể ##
 >~~Tạo A1 Plus: https://youtu.be/7KdMUwi7ggk~~
 
