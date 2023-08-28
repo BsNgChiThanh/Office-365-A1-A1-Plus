@@ -82,7 +82,7 @@ Giấy phép | URL | Miền | Onedrive | Ghi chú
 ~~A1+A1P~~|~~https://od.obagg.com~~|~~Chọn miền @crpolytechnic.in~~|~~1TB~~|~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí~~.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
 ~~A1~~ | ~~https://onedrive.gdrive.vip~~ | ~~Onedrive5tb.com~~ | ~~5TB~~ | ~~Hàng Việt Nam~~ | 
-A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
+~~A1~~ | ~~https://a1_sc.a1od.workers.dev~~ | ~~relaaa.org~~ | ~~5TB~~ | 
 ~~A1~~ |~~https://od.obagg.com~~|~~iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in~~|~~1Tb~~| 
 ~~A1~~ | ~~https://xkx.me~~ | ~~5tb.in Khuyên chọn~~ | ~~5Tb~~ | 
 ~~A1~~ | ~~http://office.zx.al~~ | ~~my365.ws~~ | ~~5TB~~ | ~~Chọn Office365学生对 tức For Students, chọn thằng còn lại là của Faculty~~|
