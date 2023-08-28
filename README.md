@@ -81,13 +81,13 @@ Giấy phép | URL | Miền | Onedrive | Ghi chú
 **A1P** |~~https://t.me/ms_1tb~~ |~~A1 Plus dạng 365.mit.edu.ge Ngày hôm nay chỉ còn duy nhất nơi đây tạo và cho miễn phí Office A1Plus~~| **~~Onedrive, Office online~~** |~~Tham gia nhóm Telegram https://t.me/ms_1tb đánh câu lệnh gởi nhóm /info yourgmail.com ví dụ: /info abc@gmail.com trong 14-30 ngày check mail có acc A1 Plus, ở trong nhóm 100 ngày được cấp G suite! Trang Telegram vẫn còn hoạt động bình thường.~~|
 ~~A1+A1P~~|~~https://od.obagg.com~~|~~Chọn miền @crpolytechnic.in~~|~~1TB~~|~~Tạo xong có A1 Plus ngay! Cho đến ngày nay, trang này mới cập nhật và khi đăng kí bắt xác minh điện thoại 2 lần mới cho đăng kí~~.
 A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |  
-A1 | https://onedrive.gdrive.vip | Onedrive5tb.com | 5TB | Hàng Việt Nam | 
+~~A1~~ | ~~https://onedrive.gdrive.vip~~ | ~~Onedrive5tb.com~~ | ~~5TB~~ | ~~Hàng Việt Nam~~ | 
 A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
 ~~A1~~ |~~https://od.obagg.com~~|~~iitel.org hoặc chancellorhs.com hoặc etzchaimcenter.org hoặc nursne,co.in~~|~~1Tb~~| 
 ~~A1~~ | ~~https://xkx.me~~ | ~~5tb.in Khuyên chọn~~ | ~~5Tb~~ | 
 ~~A1~~ | ~~http://office.zx.al~~ | ~~my365.ws~~ | ~~5TB~~ | ~~Chọn Office365学生对 tức For Students, chọn thằng còn lại là của Faculty~~|
-A1 | https://a1_sc.a1od.workers.dev | relaaa.org | 5TB | 
-A1 | https://a1_free365.a1od.workers.dev | a1.free365.org | 5TB | 
+~~A1~~ | ~~https://a1_sc.a1od.workers.dev~~ | ~~relaaa.org~~ | ~~5TB~~ | 
+~~A1~~ | ~~https://a1_free365.a1od.workers.dev~~ | ~~a1.free365.org~~ | ~~5TB~~ | 
 
  **Tool Active Windows 10 và Office 6 tháng, hết 6 tháng chạy tiếp vậy gần như vĩnh viễn rồi:** https://bit.ly/3xgMakg 
 
